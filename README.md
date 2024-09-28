@@ -1,4 +1,4 @@
-![nice_2](https://github.com/user-attachments/assets/c63f9ade-c1c2-45a0-8ece-8af8f51bb4a7)# Flutter-Architechture 
+## Flutter-Architechture 
 
 ---
 
