@@ -1,4 +1,9 @@
-# Flutter-Architechture 
+![nice_2](https://github.com/user-attachments/assets/c63f9ade-c1c2-45a0-8ece-8af8f51bb4a7)# Flutter-Architechture 
+
+---
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nobelleon) 
+
 
 A new Flutter project.        
 
